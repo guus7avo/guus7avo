@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **guus7avo/guus7avo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guus7avo&include_all_commits=true&show_icons=true&theme=github_dark&layout=compact)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guus7avo&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&layout=compact)](https://github.com/guus7avo/github-readme-stats)
-
-## !
+## Oi, eu sou o Gustavo!
 <div align="center">
   <a href="https://github.com/guus7avo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guus7avo&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guus7avo&layout=compact&langs_count=7&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guus7avo&layout=compact&theme=github_dark">
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -36,9 +34,11 @@ Here are some ideas to get you started:
   <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-          
-  <a align="center" alt="guus7avo-mail" href = "mailto:ps.gustavo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a align="center" alt="guus7avo-linkedin" href="https://www.linkedin.com/in/gustavo-nascimento-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="mail" height="30" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="linkedin" height="30" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/gustavo-nascimento-dos-santos">
+  
+  <a align="center" alt="mail" href = "mailto:ps.gustavo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" alt="linkedin" href="https://www.linkedin.com/in/gustavo-nascimento-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
   ##
