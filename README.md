@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guus7avo&include_all_commits=true&show_icons=true&theme=github_dark&layout=compact)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guus7avo&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&layout=compact)](https://github.com/guus7avo/github-readme-stats)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          
