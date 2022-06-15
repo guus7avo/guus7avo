@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   ![Snake animation](https://github.com/guus7avo/guus7avo/blob/output/github-contribution-grid-snake.svg)
+  https://www.pngwing.com/en/free-png-xbziq
 -->
 
 ## Oi, eu sou o Gustavo!
