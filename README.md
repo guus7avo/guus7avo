@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  ![Snake animation](https://github.com/guus7avo/guus7avo/blob/output/github-contribution-grid-snake.svg)
   https://www.pngwing.com/en/free-png-xbziq
 -->
 
@@ -45,5 +44,7 @@ Here are some ideas to get you started:
 
   <a align="center" alt="mail" href = "mailto:ps.gustavo19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" alt="linkedin" href="https://www.linkedin.com/in/gustavo-nascimento-dos-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+  ![Snake animation](https://github.com/guus7avo/guus7avo/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
